@@ -1,4 +1,5 @@
 interface ResearchPaper {
+    String getPublicationYear();
     String getAuthorName();
 }
 
